@@ -2,7 +2,7 @@
 
 Course materials for [Eskwelabs' Data Science Bootcamp](https://www.eskwelabs.com/) in Manila, Philippines (13/05/19 - 05/07/19).
 
-**Instructors:** Assylzhan Akynova ([LinkedIn](https://www.linkedin.com/in/asyljan-akynova/)
+**Instructors:** Assylzhan Akynova ([LinkedIn](https://www.linkedin.com/in/asyljan-akynova/))
 
 **Teaching Assistants:** Jane Arleth Dela Cruz, Joao Valenciano
 
