@@ -17,15 +17,15 @@ Week | Topic
 3: | [Working with Data Sources](#week-3) 
 4: | [Essential Math and Statistics](#week-4) 
 5: | [Machine Learning I (Supervised)](#week-5)
-6: | [Numpy, Machine Learning, KNN](#class-6-numpy-machine-learning-knn) 
+6: | [Numpy, Machine Learning, KNN](#week-6) 
 7: | [scikit-learn, Model Evaluation Procedures](#class-7-scikit-learn-model-evaluation-procedures)
 8: | [Linear Regression](#class-8-linear-regression) |
 
 
 ### Installation and Setup
-* Install the [Anaconda distribution](http://continuum.io/downloads) of Python 2.7x.
-* Install [Git](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and create a [GitHub](https://github.com/) account.
-* Once you receive an email invitation from [Slack](https://slack.com/), join our "DAT4 team" and add your photo!
+* Install the [Anaconda distribution](https://www.anaconda.com/distribution/#download-section) of Python 3.7 version.
+* Create a [GitHub](https://github.com/) account.
+* Once you receive an email invitation from [Slack](https://slack.com/), join our "Eskwelabs team" and add your photo!
 
 
 ### Class 1: Introduction
@@ -44,7 +44,7 @@ Week | Topic
 
 
 ### Class 2: Python
-* Brief overview of Python environments: Python interpreter, IPython interpreter, Spyder
+* Brief overview of Python environments: Python interpreter, IPython interpreter, 
 * Python quiz ([solution](code/02_python_quiz_solution.py))
 * Working with data in Python
     * Obtain data from a [public data source](public_data.md)
