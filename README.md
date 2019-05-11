@@ -2,9 +2,9 @@
 
 Course materials for [Eskwelabs' Data Science Bootcamp](https://www.eskwelabs.com/) in Manila, Philippines (13/05/19 - 05/07/19).
 
-**Instructors:** ([Assylzhan Akynova](https://www.linkedin.com/in/asyljan-akynova/))
+**Instructors:** [Assylzhan Akynova](https://www.linkedin.com/in/asyljan-akynova/)
 
-**Teaching Assistants:** ([Jane Arleth Dela Cruz](https://www.linkedin.com/in/janearlethdelacruz/)), ([Joao Valenciano](https://www.linkedin.com/in/joao-valenciano/)) 
+**Teaching Assistants:** [Jane Arleth Dela Cruz](https://www.linkedin.com/in/janearlethdelacruz/), [Joao Valenciano](https://www.linkedin.com/in/joao-valenciano/)
 
 **Class hours:** 6-9pm on Monday - Friday ([Warehouse Eight Coworking & Events Space](https://www.google.com/maps/place/Warehouse+Eight+Coworking+%26+Events+Space,+Makati/@14.5452632,121.0145743,17z/data=!3m1!4b1!4m5!3m4!1s0x3397c916649f1815:0xa58c5b607281b2ae!8m2!3d14.545258!4d121.016763)), 1-6pm on Saturday (Hackathon)
 
