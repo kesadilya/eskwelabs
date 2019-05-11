@@ -29,7 +29,7 @@ Here are the components you should aim to cover in your paper:
 
 Your presentation should cover these components with less breadth and depth. Focus on creating an engaging, clear, and informative presentation that tells the story of your project.
 
-Your project paper, presentation slides, and code should be included a **GitHub repository**, along with all of your data and a data dictionary. If it's not possible or practical to include your data, you should link to your data source and provide a sample of the data (anonymized if necessary).
+Your project paper, presentation slides, and code should be included in a **GitHub repository**, along with all of your data and a data dictionary. If it's not possible or practical to include your data, you should link to your data source and provide a sample of the data (anonymized if necessary).
 
 Optionally, it would be exciting to actually implement a "live" system based on your work, and to the degree this is possible within the time frame of the course, it is certainly encouraged!
 
