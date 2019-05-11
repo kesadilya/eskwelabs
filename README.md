@@ -19,7 +19,7 @@ Week | Topic
 4: | [Essential Math and Statistics](#week-4) 
 5: | [Machine Learning I (Supervised)](#week-5)
 6: | [Machine Learning II (Unsupervised)](#week-6) 
-7: | [Capstone Project](#week-7)
+7: | [Capstone Project](#project.md)
 8: | [Career Preparation and Demo Day](#week-8) |
 
 
