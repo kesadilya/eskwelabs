@@ -10,6 +10,7 @@ Course materials for [Eskwelabs' Data Science Bootcamp](https://www.eskwelabs.co
 
 
 **Curriculum**
+
 Week | Topic
 --- | ---
 1: | [Python for Data Science](#week-1) 
