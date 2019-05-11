@@ -8,8 +8,8 @@ Course materials for [Eskwelabs' Data Science Bootcamp](https://www.eskwelabs.co
 
 **Class hours:** 6-9pm on Monday - Friday ([Warehouse Eight Coworking & Events Space](https://www.google.com/maps/place/Warehouse+Eight+Coworking+%26+Events+Space,+Makati/@14.5452632,121.0145743,17z/data=!3m1!4b1!4m5!3m4!1s0x3397c916649f1815:0xa58c5b607281b2ae!8m2!3d14.545258!4d121.016763)), 1-6pm on Saturday (Hackathon)
 
-**Curriculum**
 
+**Curriculum**
 Week | Topic
 --- | ---
 1: | [Python for Data Science](#week-1) 
@@ -17,9 +17,9 @@ Week | Topic
 3: | [Working with Data Sources](#week-3) 
 4: | [Essential Math and Statistics](#week-4) 
 5: | [Machine Learning I (Supervised)](#week-5)
-6: | [Numpy, Machine Learning, KNN](#week-6) 
-7: | [scikit-learn, Model Evaluation Procedures](#class-7-scikit-learn-model-evaluation-procedures)
-8: | [Linear Regression](#class-8-linear-regression) |
+6: | [Machine Learning II (Unsupervised)](#week-6) 
+7: | [Capstone Project](#week-7)
+8: | [Career Preparation and Demo Day](#week-8) |
 
 
 ### Installation and Setup
@@ -29,10 +29,11 @@ Week | Topic
 
 
 ### Class 1: Introduction
-* Introduction to General Assembly
-* Course overview: our philosophy and expectations ([slides](slides/01_course_overview.pdf))
-* Data science overview ([slides](slides/01_intro_to_data_science.pdf))
+* Introduction to Eskwelabs
+* Bootcamp overview 
+* Introduction to Data Science 
 * Tools: check for proper setup of Anaconda, overview of Slack
+* Basic Python
 
 **Homework:**
 * Resolve any installation issues before next class.
